@@ -1,0 +1,3 @@
+c:\users\asus\documents\visual studio 2010\Projects\text dosyasına sıra vedırme\text dosyasına sıra vedırme\obj\x86\Debug\text_dosyasına_sıra_vedırme.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\text dosyasına sıra vedırme\text dosyasına sıra vedırme\obj\x86\Debug\text_dosyasına_sıra_vedırme.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\text dosyasına sıra vedırme\text dosyasına sıra vedırme\obj\x86\Debug\text dosyasına sıra vedırme.csproj.GenerateResource.Cache
